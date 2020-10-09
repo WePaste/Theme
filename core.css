@@ -25,9 +25,9 @@
   --rs-streaming-color: #643da7;
   --rs-invisible-color: #747f8d;
   
-  	/* WaterMark */
-	--theme-name: 'WeSupply.to';
-	--version: '1.0.0';
+   /* WaterMark */
+  --theme-name: 'WeSupply.to';
+  --version: '1.0.0';
   
   --size1: .925rem;
 	font-size: 14px !important;
