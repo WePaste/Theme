@@ -2139,7 +2139,8 @@ svg[name=Nitro] g path {
 	color: #fff
 }
 
-.watermark-2iDDfm {
+
+.wordmark-2iDDfm {
 	opacity: 1;
 	width: 100%;
 	background: var(--lv1);
@@ -2150,23 +2151,23 @@ svg[name=Nitro] g path {
 	padding-left: 12px;
 }
 
-.watermark-2iDDfm svg {
+.wordmark-2iDDfm svg {
 	display: none;
 }
 
-.watermark-2iDDfm:before,
-.watermark-2iDDfm:after {
+.wordmark-2iDDfm:before,
+.wordmark-2iDDfm:after {
   font-size:var(--size1);
 }
 
-.watermark-2iDDfm:before {
+.wordmark-2iDDfm:before {
 	content: var(--theme-name);
 	font-weight: 600;
 	color: var(--primary);
 	text-shadow: 0 0 12px;
 }
 
-.watermark-2iDDfm:after {
+.wordmark-2iDDfm:after {
 	content: 'v' var(--version);
 	font-weight: 400;
 	color: rgba(255, 255, 255, .8);
