@@ -2,6 +2,9 @@
   --backgroundDark: rgb(24, 28, 37);
   --backgroundDark: rgb(24, 28, 37);
   --primary: #008ae6;
+  --lv1: #00000f;
+  --accent: #1973d3;
+  --hover: #135193;
   --primaryGradient1: var(--primary);
   --primaryGradient2: #5259ab;
   --DangerColor: #dc3545;
